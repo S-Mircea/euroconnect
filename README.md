@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a university project for **COMP 1815 JVM Programming Languages** that implements a telecommunications network optimization system for connecting European capitals. The project uses Kruskal's algorithm to find the minimum spanning tree (MST) to determine the most cost-effective way to lay telecommunications cables between European cities.
+This is a university project that implements a telecommunications network optimization system for connecting European capitals. The project uses Kruskal's algorithm to find the minimum spanning tree (MST) to determine the most cost-effective way to lay telecommunications cables between European cities.
 
 ## What it does
 
