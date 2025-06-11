@@ -64,6 +64,5 @@ This project demonstrates:
 
 ## University Information
 
-- **Course**: COMP 1815 JVM Programming Languages
 - **Institution**: University of Greenwich
 - **Language**: Kotlin (JVM)
